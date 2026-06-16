@@ -1,0 +1,4 @@
+org/example/mockify/shared/domain/AggregateRoot.class
+org/example/mockify/shared/domain/DomainEntity.class
+org/example/mockify/shared/domain/DomainException.class
+org/example/mockify/shared/domain/ValueObject.class

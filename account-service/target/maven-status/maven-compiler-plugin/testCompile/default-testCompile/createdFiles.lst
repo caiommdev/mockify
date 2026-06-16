@@ -1,0 +1,8 @@
+org/example/mockify/account/application/creditcard/RegisterCreditCardServiceTest.class
+org/example/mockify/account/controllers/account/AccountControllerTest.class
+org/example/mockify/account/domain/account/EmailTest.class
+org/example/mockify/account/domain/account/AccountTest.class
+org/example/mockify/account/application/account/CreateAccountServiceTest.class
+org/example/mockify/account/infrastructure/account/JpaAccountRepositoryTest.class
+org/example/mockify/account/domain/creditcard/CardNumberTest.class
+org/example/mockify/account/domain/creditcard/ExpirationDateTest.class

@@ -1,0 +1,3 @@
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/subscription-service/src/test/java/org/example/mockify/subscription/application/subscription/SubscribeToPlanServiceTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/subscription-service/src/test/java/org/example/mockify/subscription/domain/subscription/SubscriptionTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/subscription-service/src/test/java/org/example/mockify/subscription/infrastructure/subscription/JpaSubscriptionRepositoryTest.java

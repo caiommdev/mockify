@@ -1,0 +1,3 @@
+org/example/mockify/subscription/application/subscription/SubscribeToPlanServiceTest.class
+org/example/mockify/subscription/domain/subscription/SubscriptionTest.class
+org/example/mockify/subscription/infrastructure/subscription/JpaSubscriptionRepositoryTest.class

@@ -1,0 +1,8 @@
+org/example/mockify/transaction/domain/rule/DuplicateTransactionRuleTest.class
+org/example/mockify/transaction/domain/rule/CardNotActiveRuleTest.class
+org/example/mockify/transaction/infrastructure/transaction/JpaTransactionRepositoryTest.class
+org/example/mockify/transaction/application/transaction/AuthorizeTransactionServiceTest.class
+org/example/mockify/transaction/domain/rule/FraudRuleChainTest.class
+org/example/mockify/transaction/domain/rule/HighFrequencySmallIntervalRuleTest.class
+org/example/mockify/transaction/domain/transaction/MerchantTest.class
+org/example/mockify/transaction/domain/transaction/TransactionAmountTest.class

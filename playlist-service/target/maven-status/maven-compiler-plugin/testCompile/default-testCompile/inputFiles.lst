@@ -1,0 +1,5 @@
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/playlist-service/src/test/java/org/example/mockify/playlist/application/playlist/AddSongToPlaylistServiceTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/playlist-service/src/test/java/org/example/mockify/playlist/application/playlist/CreatePlaylistServiceTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/playlist-service/src/test/java/org/example/mockify/playlist/controllers/playlist/PlaylistControllerTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/playlist-service/src/test/java/org/example/mockify/playlist/domain/playlist/PlaylistTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/playlist-service/src/test/java/org/example/mockify/playlist/infrastructure/playlist/JpaPlaylistRepositoryTest.java

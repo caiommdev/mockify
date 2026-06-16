@@ -1,0 +1,8 @@
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/account-service/src/test/java/org/example/mockify/account/application/account/CreateAccountServiceTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/account-service/src/test/java/org/example/mockify/account/application/creditcard/RegisterCreditCardServiceTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/account-service/src/test/java/org/example/mockify/account/controllers/account/AccountControllerTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/account-service/src/test/java/org/example/mockify/account/domain/account/AccountTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/account-service/src/test/java/org/example/mockify/account/domain/account/EmailTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/account-service/src/test/java/org/example/mockify/account/domain/creditcard/CardNumberTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/account-service/src/test/java/org/example/mockify/account/domain/creditcard/ExpirationDateTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/account-service/src/test/java/org/example/mockify/account/infrastructure/account/JpaAccountRepositoryTest.java

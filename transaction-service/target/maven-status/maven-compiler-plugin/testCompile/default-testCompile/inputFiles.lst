@@ -1,0 +1,8 @@
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/transaction-service/src/test/java/org/example/mockify/transaction/application/transaction/AuthorizeTransactionServiceTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/transaction-service/src/test/java/org/example/mockify/transaction/domain/rule/CardNotActiveRuleTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/transaction-service/src/test/java/org/example/mockify/transaction/domain/rule/DuplicateTransactionRuleTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/transaction-service/src/test/java/org/example/mockify/transaction/domain/rule/FraudRuleChainTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/transaction-service/src/test/java/org/example/mockify/transaction/domain/rule/HighFrequencySmallIntervalRuleTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/transaction-service/src/test/java/org/example/mockify/transaction/domain/transaction/MerchantTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/transaction-service/src/test/java/org/example/mockify/transaction/domain/transaction/TransactionAmountTest.java
+/home/cmm/Documents/infnet/Microserviços e DDD/DDD/mockify/transaction-service/src/test/java/org/example/mockify/transaction/infrastructure/transaction/JpaTransactionRepositoryTest.java

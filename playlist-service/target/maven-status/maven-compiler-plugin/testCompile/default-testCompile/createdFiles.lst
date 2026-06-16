@@ -1,0 +1,5 @@
+org/example/mockify/playlist/infrastructure/playlist/JpaPlaylistRepositoryTest.class
+org/example/mockify/playlist/application/playlist/AddSongToPlaylistServiceTest.class
+org/example/mockify/playlist/controllers/playlist/PlaylistControllerTest.class
+org/example/mockify/playlist/domain/playlist/PlaylistTest.class
+org/example/mockify/playlist/application/playlist/CreatePlaylistServiceTest.class

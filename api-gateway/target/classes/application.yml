@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: api-gateway
+
+server:
+  port: 8080
+
+services:
+  account:
+    url: ${SERVICES_ACCOUNT_URL:http://localhost:8081}
+  transaction:
+    url: ${SERVICES_TRANSACTION_URL:http://localhost:8082}
+  favorite:
+    url: ${SERVICES_FAVORITE_URL:http://localhost:8083}
+  playlist:
+    url: ${SERVICES_PLAYLIST_URL:http://localhost:8084}
+  subscription:
+    url: ${SERVICES_SUBSCRIPTION_URL:http://localhost:8085}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
